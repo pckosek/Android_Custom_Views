@@ -1,2 +1,2 @@
-[Java Code](.\app\src\main\java\com\example\pckosek\customviews_01)
-[Layout Resources](.\app\src\main\res\layout)
+ - [Java Code](./app/src/main/java/com/example/pckosek/customviews_01) <br>
+ - [Layout Resources](./app/src/main/res/layout)
