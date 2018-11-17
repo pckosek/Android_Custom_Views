@@ -11,3 +11,5 @@
 - **CustomsViews_07** - a subclassed view that tracks motion and draws a circle, also clears drawn points
 - **CustomsViews_08** - a subclassed view that draws a finite number of tracked points
 - **CustomsViews_09** - a subclassed view that handles volley requests and draws the text of the parsed output
+- **CustomsViews_10** - a subclassed view that tracks movement, then randomizes circle placement on release
+- **CustomsViews_11** - a subclassed view that allow you to draw multiple paths
