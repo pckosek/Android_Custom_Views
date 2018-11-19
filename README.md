@@ -13,3 +13,5 @@
 - **CustomsViews_09** - a subclassed view that handles volley requests and draws the text of the parsed output
 - **CustomsViews_10** - a subclassed view that tracks movement, then randomizes circle placement on release
 - **CustomsViews_11** - a subclassed view that allow you to draw multiple paths
+- **CustomsViews_12** - a subclassed view that draws a bitmap (png with transparency)
+- **CustomsViews_13** - a subclassed view that draws and animates a bitmap (png with transparency)
