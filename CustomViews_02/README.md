@@ -1,2 +1,0 @@
- - [Java Code](./app/src/main/java/com/example/pckosek/customviews_02) <br>
- - [Layout Resources](./app/src/main/res/layout)
