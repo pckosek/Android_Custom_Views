@@ -15,3 +15,4 @@
 - **11_CustomsViews** - a subclassed view that allow you to draw multiple paths
 - **12_CustomsViews** - a subclassed view that draws a bitmap (png with transparency)
 - **13_CustomsViews** - a subclassed view that draws and animates a bitmap (png with transparency)
+- **14_Android_Sound_Views** - a folder containing three apps that incorporate custom views and sound
