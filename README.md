@@ -17,4 +17,6 @@
 - **13_CustomsViews** - a subclassed view that draws and animates a bitmap (png with transparency)
 - **14_Android_Sound_Views** - a folder containing three apps that incorporate custom views and sound
 - **15_LogTouchApp** - a subclassed view that logs the x position of the click to logcat
-- **16_TapResponder** - a subclassed view that logs the x position of the click to logcat
+- **16_TapResponder** - a subclassed view that draws a circle at the point of tap
+- **17_MultipleTouchEvents** - a subclassed view that draws a new circle at the point of tap
+- **18_TapTimer** - a custom countdown timer displaying a one second animation.

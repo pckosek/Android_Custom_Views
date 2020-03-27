@@ -1,4 +1,4 @@
-# Draw a Circle that 
+# Draw a Circle when the Screen is Tapped
 
 ## A video of the operation of this file can be seen [here](https://www.youtube.com/watch?v=8A0mt1C5DQI)
 
