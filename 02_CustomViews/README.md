@@ -5,7 +5,7 @@
  - [Java Code](./app/src/main/java/com/example/pckosek/customviews_02) <br>
  - [Layout Resources](./app/src/main/res/layout)
 
- This view implements the logic of responding to a touch event within the class itself. This is in contrast to an activity or fragment that contains the view implementing something like a `View.OnClickListener`.
+ This custom `View` implements the logic of responding to a touch event within the class itself. This is in contrast to an activity or fragment that contains the view implementing something like a `View.OnClickListener`.
 
  Here the touch event is intercepted by overriding the `onTouchEvent` method:
 ```
