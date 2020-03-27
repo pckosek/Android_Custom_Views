@@ -29,14 +29,14 @@ As in [02_CustomViews](../02_CustomViews), the color (retreived from resources) 
 ```
  and changed back to blue on line 43.
 
- The `startCounting` method shown here:
+ The `startCounting` method is shown here:
 ```java
      public void startCounting() {
         mCount = 0;
         mHandler.postDelayed(this, 100);
     }
 ```
-line 63 tells the Handler (`mHandler`) to run the method `run` implemented in `this` in 100 ms.
+In this method, line 63 tells the Handler (`mHandler`) to run the method `run` implemented in `this` (i.e. the `View` itself) in 100 ms.
 
 Since `this` refers to the custom `View`, the runnable method is therefore:
 ```java
