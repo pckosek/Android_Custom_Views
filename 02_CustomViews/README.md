@@ -2,8 +2,9 @@
 
 ## A video of the operation of this file can be seen [here](https://youtu.be/Ch35qT43Jiw)
 
- - [Java Code](./app/src/main/java/com/example/pckosek/customviews_02) <br>
- - [Layout Resources](./app/src/main/res/layout)
+ - [Java Files Direct Link](./app/src/main/java/com/example/pckosek/customviews_02) <br>
+ - [Layout Resources Direct Link](./app/src/main/res/layout)
+## 
 
  This custom `View` implements the logic of responding to a touch event within the class itself. This is in contrast to an activity or fragment that contains the view implementing something like a `View.OnClickListener`.
 

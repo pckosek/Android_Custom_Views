@@ -2,11 +2,10 @@
 
 ## A video of the operation of this file can be seen [here](https://youtu.be/ALXd6Tc1kzY)
 
- - [Java Code](./app/src/main/java/com/example/pckosek/customviews_03) <br>
- - [Layout Resources](./app/src/main/res/layout)
-
+ - [Java Files Direct Link](./app/src/main/java/com/example/pckosek/customviews_03) <br>
+ - [Layout Resources Direct Link](./app/src/main/res/layout)
 ## 
- 
+
 Similar to [02_CustomViews](../02_CustomViews) this custom `View` responds to touch events itself by overriding the `onTouchEvent` method:
 ```java
     @Override

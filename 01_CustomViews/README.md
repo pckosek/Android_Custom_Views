@@ -2,8 +2,9 @@
 
 ## A video of the operation of this file can be seen [here](https://youtu.be/PxzMkgcQnEI)
 
- - [Java Code](./app/src/main/java/com/example/pckosek/customviews_01) <br>
- - [Layout Resources](./app/src/main/res/layout)
+ - [Java Files Direct Link](./app/src/main/java/com/example/pckosek/customviews_01) <br>
+ - [Layout Resources Direct Link](./app/src/main/res/layout)
+##
 
 This view doesn't really do much in the Java code. It get's its size and color in activity_main.xml
 
