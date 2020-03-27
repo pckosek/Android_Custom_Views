@@ -2,6 +2,11 @@
 
 ## A video of the operation of this file can be seen [here](https://youtu.be/ALXd6Tc1kzY)
 
+ - [Java Code](./app/src/main/java/com/example/pckosek/customviews_03) <br>
+ - [Layout Resources](./app/src/main/res/layout)
+
+## 
+ 
 Similar to [02_CustomViews](../02_CustomViews) this custom `View` responds to touch events itself by overriding the `onTouchEvent` method:
 ```java
     @Override
@@ -53,5 +58,3 @@ It is in the above `run()` method that the count is incremented, logged and the 
 
 
 
- - [Java Code](./app/src/main/java/com/example/pckosek/customviews_03) <br>
- - [Layout Resources](./app/src/main/res/layout)
