@@ -36,6 +36,19 @@ As in [02_CustomViews](../02_CustomViews), the color (retreived from resources) 
         mHandler.postDelayed(this, 100);
     }
 ```
+line 63 tells the Handler (`mHandler`) to run the method `run` implemented in `this` in 100 ms.
+
+Since `this` refers to the custom `View`, the runnable method is therefore:
+```java
+    @Override
+    public void run() {
+        mCount++;
+        mHandler.postDelayed(this, 100);
+        Log.i("COUNT", String.valueOf(mCount));
+    }
+```
+
+It is in the above `run()` method that the count is incremented, logged and the runnable is called again in another 100 ms.
 
 
 
