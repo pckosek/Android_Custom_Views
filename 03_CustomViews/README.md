@@ -4,6 +4,7 @@
 
  - [Java Files Direct Link](./app/src/main/java/com/example/pckosek/customviews_03) <br>
  - [Layout Resources Direct Link](./app/src/main/res/layout)
+
 ## 
 
 Similar to [02_CustomViews](../02_CustomViews) this custom `View` responds to touch events itself by overriding the `onTouchEvent` method:
@@ -54,6 +55,4 @@ Since `this` refers to the custom `View`, the runnable method is therefore:
 
 It is in the above `run()` method that the count is incremented, logged and the runnable is called again in another 100 ms. This process of retriggering a future event to run is repeated every 100 ms until `mHandler.removeCallbacks(this);` is called in `stopCounting()`.
 
-
-
-
+Further discussion of Handlers and Runnables can be seen on [CodePath](https://guides.codepath.com/android/Repeating-Periodic-Tasks#handler)

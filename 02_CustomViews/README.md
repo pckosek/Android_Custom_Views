@@ -34,4 +34,4 @@ The `event` object contains a wealth of information regarding the press at this 
 The return value (`true` or `false`) describes whether or not the event is 'captured'. 
  - If the event is captured (`return false`) this event *is not* propogated upwards. This means that the super container view (possibly a layout or scrollview that might want to use the touch event for scrolling or swiping) *will not* be able to use the touch event.
  - If the event is *not captured* (`return true`) this event *is* propogated upwards. This means that the super container view (possibly a layout or scrollview that might want to use the touch event for scrolling or swiping) *will* be able to use the touch event.
- - More treatment of the return value can be seen [at CodePath](https://guides.codepath.com/android/gestures-and-touch-events#understanding-touch-events)
+ - More treatment of the return value can be seen on [CodePath](https://guides.codepath.com/android/gestures-and-touch-events#understanding-touch-events)
