@@ -16,3 +16,5 @@
 - **12_CustomsViews** - a subclassed view that draws a bitmap (png with transparency)
 - **13_CustomsViews** - a subclassed view that draws and animates a bitmap (png with transparency)
 - **14_Android_Sound_Views** - a folder containing three apps that incorporate custom views and sound
+- **15_LogTouchApp** - a subclassed view that logs the x position of the click to logcat
+- **16_TapResponder** - a subclassed view that logs the x position of the click to logcat
