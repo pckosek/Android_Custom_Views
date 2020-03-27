@@ -8,7 +8,7 @@
 This view doesn't really do much in the Java code. It get's its size and color in activity_main.xml
 
 You can see how to place a custom view in a layout xml file by calling it's full package path:
-```
+```xml
     <com.example.pckosek.customviews_01.MyNewView
         android:layout_width="150dp"
         android:layout_height="150dp"

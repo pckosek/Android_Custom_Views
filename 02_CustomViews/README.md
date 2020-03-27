@@ -8,7 +8,7 @@
  This custom `View` implements the logic of responding to a touch event within the class itself. This is in contrast to an activity or fragment that contains the view implementing something like a `View.OnClickListener`.
 
  Here the touch event is intercepted by overriding the `onTouchEvent` method:
-```
+```java
     @Override
     public boolean onTouchEvent(MotionEvent event) {
         int action = event.getAction();
