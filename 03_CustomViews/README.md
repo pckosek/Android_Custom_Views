@@ -48,7 +48,7 @@ Since `this` refers to the custom `View`, the runnable method is therefore:
     }
 ```
 
-It is in the above `run()` method that the count is incremented, logged and the runnable is called again in another 100 ms.
+It is in the above `run()` method that the count is incremented, logged and the runnable is called again in another 100 ms. This process of retriggering a future event to run is repeated every 100 ms until `mHandler.removeCallbacks(this);` is called in `stopCounting()`.
 
 
 
