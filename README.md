@@ -3,13 +3,13 @@
 ### Included are Several Android Projects that do the following:
 
 - **01_CustomsViews** - a simple view that has been subclassed ([DEMO](https://www.youtube.com/watch?v=PxzMkgcQnEI)) ([LECTURE](https://www.youtube.com/watch?v=CHt5FvXrtCc))
-- **02_CustomsViews** - a subclassed view that detects press and release
-- **03_CustomsViews** - a subclassed view that detects press and release
-- **04_CustomsViews** - a subclassed view that counts presses
-- **05_CustomsViews** - a subclassed view that implements a runnable, counting press time
-- **06_CustomsViews** - a subclassed view that tracks motion and draws a circle
-- **07_CustomsViews** - a subclassed view that tracks motion and draws a circle, also clears drawn points
-- **08_CustomsViews** - a subclassed view that draws a finite number of tracked points
+- **02_CustomsViews** - a subclassed view that detects press and release ([DEMO](https://www.youtube.com/watch?v=Ch35qT43Jiw)) ([LECTURE](https://www.youtube.com/watch?v=L1YNYtv9qGA))
+- **03_CustomsViews** - a subclassed view that detects press and release ([DEMO](https://www.youtube.com/watch?v=ALXd6Tc1kzY)) ([LECTURE](https://www.youtube.com/watch?v=JRNKU45Mu5c))
+- **04_CustomsViews** - a subclassed view that counts presses ([DEMO](https://www.youtube.com/watch?v=JRnLsKjzIzg)) ([LECTURE](https://www.youtube.com/watch?v=m7BHzptFEUA))
+- **05_CustomsViews** - a subclassed view that implements a runnable, counting press time ([DEMO](https://www.youtube.com/watch?v=9CLalvD-nv0)) ([LECTURE](https://www.youtube.com/watch?v=G-bpN_fj1bk))
+- **06_CustomsViews** - a subclassed view that tracks motion and draws a circle ([DEMO](https://www.youtube.com/watch?v=xP1GFxRh41I))
+- **07_CustomsViews** - a subclassed view that tracks motion and draws a circle, also clears drawn points ([DEMO](https://www.youtube.com/watch?v=QDlxibZWGsU))
+- **08_CustomsViews** - a subclassed view that draws a finite number of tracked points ([DEMO](https://www.youtube.com/watch?v=O1OWMmeJ5y0))
 - **09_CustomsViews** - a subclassed view that handles volley requests and draws the text of the parsed output
 - **10_CustomsViews** - a subclassed view that tracks movement, then randomizes circle placement on release
 - **11_CustomsViews** - a subclassed view that allow you to draw multiple paths
