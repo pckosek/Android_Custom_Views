@@ -4,9 +4,7 @@ import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
-import android.os.Handler;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 
@@ -70,7 +68,7 @@ public class MyNewView extends View {
 
     private void setupPaint() {
         mPaint = new Paint();
-        mPaint.setColor(Color.WHITE);
+        mPaint.setColor(Color.GREEN);
         mPaint.setAntiAlias(true);
         mPaint.setTextSize(80);
         mPaint.setStyle(Paint.Style.FILL);

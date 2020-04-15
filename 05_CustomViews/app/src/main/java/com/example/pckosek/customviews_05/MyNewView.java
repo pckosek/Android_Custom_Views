@@ -11,7 +11,7 @@ import android.view.MotionEvent;
 import android.view.View;
 
 
-public class MyNewView extends View implements Runnable{
+public class MyNewView extends View implements Runnable {
 
     /* ------------------------*/
     /*    member variables     */
