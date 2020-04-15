@@ -1,6 +1,7 @@
 # A Simple Custom View
 
 ## A video of the operation of this file can be seen [here](https://youtu.be/PxzMkgcQnEI)
+## A lecture of the operation of this file can be seen [here](https://www.youtube.com/watch?v=CHt5FvXrtCc)
 
  - [Java Files Direct Link](./app/src/main/java/com/example/pckosek/customviews_01) <br>
  - [Layout Resources Direct Link](./app/src/main/res/layout)

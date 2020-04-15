@@ -1,6 +1,7 @@
 # A Custom View that Responds to Touch Events
 
 ## A video of the operation of this file can be seen [here](https://youtu.be/Ch35qT43Jiw)
+## A lecture of the operation of this file can be seen [here](https://www.youtube.com/watch?v=L1YNYtv9qGA)
 
  - [Java Files Direct Link](./app/src/main/java/com/example/pckosek/customviews_02) <br>
  - [Layout Resources Direct Link](./app/src/main/res/layout)

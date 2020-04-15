@@ -1,6 +1,7 @@
 # A Custom View that Counts How Long is Was Pressed
 
 ## A video of the operation of this file can be seen [here](https://youtu.be/ALXd6Tc1kzY)
+## A lecture of the operation of this file can be seen [here](https://www.youtube.com/watch?v=JRNKU45Mu5c)
 
  - [Java Files Direct Link](./app/src/main/java/com/example/pckosek/customviews_03) <br>
  - [Layout Resources Direct Link](./app/src/main/res/layout)
