@@ -1,7 +1,6 @@
 # A Subclassed View that Counts Presses
 
-## A video of the operation of this file can be seen [here](https://www.youtube.com/watch?v=JRnLsKjzIzg)
-## A lecture of the operation of this file can be seen [here](https://www.youtube.com/watch?v=m7BHzptFEUA)
+## A video of the operation of this file can be seen [here](https://www.youtube.com/watch?v=JRnLsKjzIzg)<br> A lecture of the operation of this file can be seen [here](https://www.youtube.com/watch?v=m7BHzptFEUA)
 
 ## 
 
