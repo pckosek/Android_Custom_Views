@@ -11,10 +11,10 @@
 - **07_CustomsViews** - a subclassed view that tracks motion and draws a circle, also clears drawn points ([DEMO](https://www.youtube.com/watch?v=QDlxibZWGsU))
 - **08_CustomsViews** - a subclassed view that draws a finite number of tracked points ([DEMO](https://www.youtube.com/watch?v=O1OWMmeJ5y0))
 - **09_CustomsViews** - a subclassed view that handles volley requests and draws the text of the parsed output
-- **10_CustomsViews** - a subclassed view that tracks movement, then randomizes circle placement on release
-- **11_CustomsViews** - a subclassed view that allow you to draw multiple paths
-- **12_CustomsViews** - a subclassed view that draws a bitmap (png with transparency)
-- **13_CustomsViews** - a subclassed view that draws and animates a bitmap (png with transparency)
+- **10_CustomsViews** - a subclassed view that tracks movement, then randomizes circle placement on release ([DEMO](https://www.youtube.com/watch?v=eg3VNoHSYng))
+- **11_CustomsViews** - a subclassed view that allow you to draw multiple paths ([DEMO](https://www.youtube.com/watch?v=odJ9CVNRnBw))
+- **12_CustomsViews** - a subclassed view that draws a bitmap (png with transparency) ([DEMO](https://www.youtube.com/watch?v=5zCcIt_kdrI))
+- **13_CustomsViews** - a subclassed view that draws and animates a bitmap (png with transparency) ([DEMO](https://www.youtube.com/watch?v=tUug5g_7aoM))
 - **14_Android_Sound_Views** - a folder containing three apps that incorporate custom views and sound
 - **15_LogTouchApp** - a subclassed view that logs the x position of the click to logcat
 - **16_TapResponder** - a subclassed view that draws a circle at the point of tap
